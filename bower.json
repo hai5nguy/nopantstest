@@ -1,0 +1,23 @@
+{
+  "name": "nopantstest",
+  "version": "0.0.1",
+  "homepage": "https://github.com/hai5nguy/nopantstest",
+  "authors": [
+    "author1"
+  ],
+  "description": "description",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.4"
+  }
+}

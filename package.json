@@ -1,0 +1,31 @@
+{
+  "name": "nopantstest",
+  "version": "0.0.1",
+  "description": "nopantstest",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hai5nguy/nopantstest.git"
+  },
+  "author": "author1, author2",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hai5nguy/nopantstest/issues"
+  },
+  "homepage": "https://github.com/hai5nguy/nopantstest",
+  "devDependencies": {
+    "connect-livereload": "^0.5.3",
+    "del": "^2.0.1",
+    "gulp": "^3.9.0",
+    "gulp-clean": "^0.3.1",
+    "gulp-express": "^0.3.5",
+    "gulp-sass": "^2.0.4",
+    "mongodb": "^2.0.42"
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
